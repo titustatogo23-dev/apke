@@ -1,0 +1,6 @@
+{
+  "name": "E-Health SATUSEHAT",
+  "description": "Sistem Informasi & Pelayanan Kesehatan Masyarakat, Rekam Medis Elektronik (RME) & Janji Temu Kalender",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
